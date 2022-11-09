@@ -1,2 +1,2 @@
 # internet-essentials
-Important, seminal documents relating to Internet architecture, governance, and future.
+Important, seminal documents relating to Internet history, architecture, governance, and future.
