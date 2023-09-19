@@ -71,9 +71,9 @@ Copying all or parts of a program is as natural to a programmer as breathing, an
 
 # Some Easily Rebutted Objections to GNU's Goals
 
-“Nobody will use it if it is free, because that means they can't rely on any support.”
+**“Nobody will use it if it is free, because that means they can't rely on any support.”**
 
-“You have to charge for the program to pay for providing the support.”
+**“You have to charge for the program to pay for providing the support.”**
 
 If people would rather pay for GNU plus service than get GNU free without service, a company to provide just service to people who have obtained GNU free ought to be profitable [4].
 
@@ -85,25 +85,25 @@ Meanwhile, the users who know nothing about computers need handholding: doing th
 
 Such services could be provided by companies that sell just handholding and repair service. If it is true that users would rather spend money and get a product with service, they will also be willing to buy the service having got the product free. The service companies will compete in quality and price; users will not be tied to any particular one. Meanwhile, those of us who don't need the service should be able to use the program without paying for the service.
 
-“You cannot reach many people without advertising, and you must charge for the program to support that.”
+**“You cannot reach many people without advertising, and you must charge for the program to support that.”**
 
-“It's no use advertising a program people can get free.”
+**“It's no use advertising a program people can get free.”**
 
 There are various forms of free or very cheap publicity that can be used to inform numbers of computer users about something like GNU. But it may be true that one can reach more microcomputer users with advertising. If this is really so, a business which advertises the service of copying and mailing GNU for a fee ought to be successful enough to pay for its advertising and more. This way, only the users who benefit from the advertising pay for it.
 
 On the other hand, if many people get GNU from their friends, and such companies don't succeed, this will show that advertising was not really necessary to spread GNU. Why is it that free market advocates don't want to let the free market decide this? [5]
 
-“My company needs a proprietary operating system to get a competitive edge.”
+**“My company needs a proprietary operating system to get a competitive edge.”**
 
 GNU will remove operating system software from the realm of competition. You will not be able to get an edge in this area, but neither will your competitors be able to get an edge over you. You and they will compete in other areas, while benefiting mutually in this one. If your business is selling an operating system, you will not like GNU, but that's tough on you. If your business is something else, GNU can save you from being pushed into the expensive business of selling operating systems.
 
 I would like to see GNU development supported by gifts from many manufacturers and users, reducing the cost to each [6].
 
-“Don't programmers deserve a reward for their creativity?”
+**“Don't programmers deserve a reward for their creativity?”**
 
 If anything deserves a reward, it is social contribution. Creativity can be a social contribution, but only in so far as society is free to use the results. If programmers deserve to be rewarded for creating innovative programs, by the same token they deserve to be punished if they restrict the use of these programs.
 
-“Shouldn't a programmer be able to ask for a reward for his creativity?”
+**“Shouldn't a programmer be able to ask for a reward for his creativity?”**
 
 There is nothing wrong with wanting pay for work, or seeking to maximize one's income, as long as one does not use means that are destructive. But the means customary in the field of software today are based on destruction.
 
@@ -111,7 +111,7 @@ Extracting money from users of a program by restricting their use of it is destr
 
 The reason a good citizen does not use such destructive means to become wealthier is that, if everyone did so, we would all become poorer from the mutual destructiveness. This is Kantian ethics; or, the Golden Rule. Since I do not like the consequences that result if everyone hoards information, I am required to consider it wrong for one to do so. Specifically, the desire to be rewarded for one's creativity does not justify depriving the world in general of all or part of that creativity.
 
-“Won't programmers starve?”
+**“Won't programmers starve?”**
 
 I could answer that nobody is forced to be a programmer. Most of us cannot manage to get any money for standing on the street and making faces. But we are not, as a result, condemned to spend our lives standing on the street making faces, and starving. We do something else.
 
@@ -123,7 +123,7 @@ Restricting copying is not the only basis for business in software. It is the mo
 
 Probably programming will not be as lucrative on the new basis as it is now. But that is not an argument against the change. It is not considered an injustice that sales clerks make the salaries that they now do. If programmers made the same, that would not be an injustice either. (In practice they would still make considerably more than that.)
 
-“Don't people have a right to control how their creativity is used?”
+**“Don't people have a right to control how their creativity is used?”**
 
 “Control over the use of one's ideas” really constitutes control over other people's lives; and it is usually used to make their lives more difficult.
 
@@ -137,13 +137,13 @@ All intellectual property rights are just licenses granted by society because it
 
 The case of programs today is very different from that of books a hundred years ago. The fact that the easiest way to copy a program is from one neighbor to another, the fact that a program has both source code and object code which are distinct, and the fact that a program is used rather than read and enjoyed, combine to create a situation in which a person who enforces a copyright is harming society as a whole both materially and spiritually; in which a person should not do so regardless of whether the law enables him to.
 
-“Competition makes things get done better.”
+**“Competition makes things get done better.”**
 
 The paradigm of competition is a race: by rewarding the winner, we encourage everyone to run faster. When capitalism really works this way, it does a good job; but its defenders are wrong in assuming it always works this way. If the runners forget why the reward is offered and become intent on winning, no matter how, they may find other strategies—such as, attacking other runners. If the runners get into a fist fight, they will all finish late.
 
 Proprietary and secret software is the moral equivalent of runners in a fist fight. Sad to say, the only referee we've got does not seem to object to fights; he just regulates them (“For every ten yards you run, you can fire one shot”). He really ought to break them up, and penalize runners for even trying to fight.
 
-“Won't everyone stop programming without a monetary incentive?”
+**“Won't everyone stop programming without a monetary incentive?”**
 
 Actually, many people will program with absolutely no monetary incentive. Programming has an irresistible fascination for some people, usually the people who are best at it. There is no shortage of professional musicians who keep at it even though they have no hope of making a living that way.
 
@@ -155,11 +155,11 @@ Then most of them left when offered a chance to do the same interesting work for
 
 What the facts show is that people will program for reasons other than riches; but if given a chance to make a lot of money as well, they will come to expect and demand it. Low-paying organizations do poorly in competition with high-paying ones, but they do not have to do badly if the high-paying ones are banned.
 
-“We need the programmers desperately. If they demand that we stop helping our neighbors, we have to obey.”
+**“We need the programmers desperately. If they demand that we stop helping our neighbors, we have to obey.”**
 
 You're never so desperate that you have to obey this sort of demand. Remember: millions for defense, but not a cent for tribute!
 
-“Programmers need to make a living somehow.”
+**“Programmers need to make a living somehow.”**
 
 In the short run, this is true. However, there are plenty of ways that programmers could make a living without selling the right to use a program. This way is customary now because it brings programmers and businessmen the most money, not because it is the only way to make a living. It is easy to find other ways if you want to find them. Here are a number of examples.
 
