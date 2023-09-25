@@ -12,4 +12,4 @@ Important, seminal documents relating to computing and Internet history, archite
 
 ## AI
 
-* [Attention is All You Need](https://github.com/doctorparadox/internet-essentials/blob/main/attention-is-all-you-need.pdf) -- The quintessential magic of the transformer model
+* [Attention is All You Need (2017)](https://github.com/doctorparadox/internet-essentials/blob/main/attention-is-all-you-need.pdf) -- The quintessential magic of the transformer model
