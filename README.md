@@ -1,6 +1,7 @@
 # Internet Essentials
-Important, seminal documents relating to Internet history, architecture, governance, and future.
+Important, seminal documents relating to computing and Internet history, architecture, governance, and future.
 
+* [Claude Shannon: Programming a Computer for Playing Chess (1950)](https://github.com/doctorparadox/internet-essentials/blob/main/ProgrammingaComputerforPlayingChess.pdf) -- This theoretical paper outlined many of the foundational algorithms and techniques still central to much of computer game design today
 * [Norbert Wiener: Some Moral and Technical Consequences of Automation (1960)](https://github.com/doctorparadox/internet-essentials/blob/main/Wiener-Moral-and-Technical-Consequences-of-Automation.pdf)
 * [Richard Stallman: The GNU Manifesto (1985)](https://github.com/doctorparadox/internet-essentials/blob/main/GNU-Manifesto.md)
 * [Tim Berners-Lee: Information Management: A Proposal (1989-90)](https://github.com/doctorparadox/internet-essentials/blob/main/info-mgmt-proposal.rtf) -- The original proposal of the World Wide Web
